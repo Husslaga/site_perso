@@ -1,5 +1,6 @@
 {
     "github.copilot.chat.experimental.inlineChatHint.enabled": true,
     "github.copilot.chat.experimental.inlineChatCompletionTrigger.enabled": true,
-    "github.copilot.chat.temporalContext.enabled": true
+    "github.copilot.chat.temporalContext.enabled": true,
+    "liveServer.settings.port": 5502
 }
